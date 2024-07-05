@@ -10,7 +10,7 @@ function Card(props: Props) {
     <div
       className="card"
       style={{
-        width: "350px",
+        width: "100px",
       }}
     >
       <div className="card-body">{children}</div>
