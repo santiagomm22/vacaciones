@@ -1,7 +1,8 @@
 import react from "react";
 
 export function title() {
-  return <>Michael</>;
+  return <>hola mundo</>;
+
 }
 
 export default title;
